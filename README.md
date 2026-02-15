@@ -1,4 +1,8 @@
 # Blade-structural-model
+We sincerely appreciate your donation and support from follows.
+<img width="1185" height="1796" alt="image" src="https://github.com/user-attachments/assets/7fcd6203-e4d0-4776-8208-bdf65d1e990c" />
+<img width="1242" height="1753" alt="image" src="https://github.com/user-attachments/assets/0051053a-6356-4729-a27c-088026c27bb8" />
+
 To cite the model, please utilize the reference below.
 
 [1]	 Wang, B.X., Liang, X., Wang, L.Z., Sheng, F.Y., Wang, X., Chen, Y., Zhang, J.W., Rui, S.J., Liu, R. Six-component load reconstruction for offshore wind turbine blades considering deformation-induced additional moments. Ocean Engineering, 2026, 352: 124531. https://doi.org/10.1016/j.oceaneng.2026.124531.
@@ -8,4 +12,4 @@ To cite the model, please utilize the reference below.
 The employed 5MW blade structural model (both 1D beam and 3D shell FEM).
 <img width="1699" height="1043" alt="blade - 副本" src="https://github.com/user-attachments/assets/582992d8-2033-4947-a173-66ce210fea5f" />
 
-We sincerely appreciate your donation and support.
+
