@@ -1,8 +1,8 @@
 # Blade-structural-model
 We sincerely appreciate your donation and support from follows.
 
-<img width="118.5" height="179.6" alt="image" src="https://github.com/user-attachments/assets/7fcd6203-e4d0-4776-8208-bdf65d1e990c" />
-<img width="124.2" height="175.3" alt="image" src="https://github.com/user-attachments/assets/0051053a-6356-4729-a27c-088026c27bb8" />
+<img width="355.5" height="538.8" alt="image" src="https://github.com/user-attachments/assets/7fcd6203-e4d0-4776-8208-bdf65d1e990c" />
+<img width="372.6" height="525.9" alt="image" src="https://github.com/user-attachments/assets/0051053a-6356-4729-a27c-088026c27bb8" />
 
 To cite the model, please utilize the reference below.
 
