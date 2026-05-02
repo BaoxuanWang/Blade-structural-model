@@ -14,6 +14,8 @@ The employed 5MW blade structural model (both 1D beam and 3D shell FEM).
 <img width="1699" height="1043" alt="blade - 副本" src="https://github.com/user-attachments/assets/582992d8-2033-4947-a173-66ce210fea5f" />
 
 
+
+
 We sincerely appreciate your donation and support from follows.
 
 <img width="355.5" height="538.8" alt="image" src="https://github.com/user-attachments/assets/7fcd6203-e4d0-4776-8208-bdf65d1e990c" />
